@@ -1,0 +1,34 @@
+.btn1{
+    background-color: yellow;
+    color:black;
+ border-radius: 10rem;
+ width: 10rem;
+ height: 5rem;
+
+}
+.btn2{
+    background-color: YELLOW;
+    color: black;
+  border-radius: 10rem;
+  width: 10rem;
+  height: 5rem;   
+}
+.inp{
+    outline: none;
+    border: none;
+    border-style: double;
+    border-radius: 10px 10px;
+    background-color: yellow;
+    border-color: black;
+    width: 50rem;
+    height: 5rem;
+    font-size: large;
+
+}
+.one{
+    margin-left:5rem; 
+    margin-top:10rem;
+}
+body{
+    background-color: cyan;
+}
